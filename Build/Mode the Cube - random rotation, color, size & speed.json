@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Mod the Cube",
+"dataUrl": "Mode the Cube - random rotation, color, size & speed.data.unityweb",
+"wasmCodeUrl": "Mode the Cube - random rotation, color, size & speed.wasm.code.unityweb",
+"wasmFrameworkUrl": "Mode the Cube - random rotation, color, size & speed.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
